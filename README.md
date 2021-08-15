@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment-1 \n
 
 #1.Calculate the sum of first N natural numbers and odd numbers. Use of analytical formulae not allowed. [2]
 #2. Calculate the sum of N terms of an AP, GP and HP series for common difference 1.5 and common ratio 0.5. Use of analytical formulae not allowed. [3]
